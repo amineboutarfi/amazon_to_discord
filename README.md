@@ -10,6 +10,8 @@ Note that amazon shows prices in multiple HTML/CSS tags depending on the product
 
 Also note that the product I used in the products_links.txt file might not be available on amazon when you try the bot, use your own products links.
 
+Important: Use your own Discord Webhook. Mine is already deleted and you will get an error. 
+
 ## To Install:
 - (Optional: create & activate a virtual environment) `virtualenv venv`, then `source venv/bin/activate`
 
